@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:26.03.2024
+## Date:
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
